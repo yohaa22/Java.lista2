@@ -13,7 +13,9 @@ public class Programa {
 
       // Exercicio06.main(args);
 
-      Exercicio07.main(args);
+      //Exercicio07.main(args);
+
+      Exercicio08.main(args);
       
 
 
